@@ -1,5 +1,5 @@
 const fnCustom = {
 	message:()=>{
-		alert('Hello Becker!!!');
+		alert('Hello World!!!');
 	}
 }
